@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    margin-top: 10vh;
+}
+
+.imageContainer img{
+    /* border: 1px solid black; */
+    min-width: 10vw;
+    min-height: 30vh;
+    margin-bottom: 2vh;
+
+}
+
+.info{
+    max-width: 30vw;
+    max-height: 30vh;
+    
+}
+.searchTerm{
+box-shadow: 2px 2px 5px #694545;
+border-radius: 10%;
+
+
+}
+.output{
+    text-align: left;
+    margin: 10vw;
+
+}
+
+button{
+    border-radius: 10%;
+    background-color: white;
+    box-shadow: 2px 2px 3px #694545;
+
+}
+/* .list{
+    border: 1px solid black;
+} */
